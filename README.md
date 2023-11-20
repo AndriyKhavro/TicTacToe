@@ -1,7 +1,7 @@
 ### Tic tac toe using Minimax algorithm
 
 ### How to run
-You need latest .NET 8 installed.
+You need .NET 8 installed.
 ```csharp
 dotnet run
 ```
