@@ -9,8 +9,8 @@ dotnet run
 ### How to play
 
 The game can be played in 4 modes: 
-1. X - user, O - AI. The game is ended in draw or AI wins.
-1. O - user, X - AI. The game is ended in draw or AI wins.
+1. User is X, AI is O. The game is ended in draw or AI wins.
+1. User is O, AI is X. The game is ended in draw or AI wins.
 1. None: AI plays for both. The game is always ended in draw.
 1. Both: User plays for both X and O. 
 
